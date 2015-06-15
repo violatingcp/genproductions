@@ -1,9 +1,18 @@
+<<<<<<< HEAD
 import axial_monoW_model_MED_XMASS
+=======
+
+import axial_monoW_model
+>>>>>>> f9889e12330271fbbba145c65afe5601e56c321f
 generate    p p  > Zp w-,     Zp >  ~n1 Xn1
 add process p p  > Zp w- j,   Zp >  ~n1 Xn1
 add process p p  > Zp w- j j, Zp >  ~n1 Xn1
 add process p p  > Zp w+  ,   Zp >  ~n1 Xn1
 add process p p  > Zp w+ j,   Zp >  ~n1 Xn1
 add process p p  > Zp w+ j j, Zp >  ~n1 Xn1
+<<<<<<< HEAD
 output DMAxial_W_MED_XMASS -nojpeg
+=======
+output AxialMonoW_MED_XMASS -nojpeg
+>>>>>>> f9889e12330271fbbba145c65afe5601e56c321f
 

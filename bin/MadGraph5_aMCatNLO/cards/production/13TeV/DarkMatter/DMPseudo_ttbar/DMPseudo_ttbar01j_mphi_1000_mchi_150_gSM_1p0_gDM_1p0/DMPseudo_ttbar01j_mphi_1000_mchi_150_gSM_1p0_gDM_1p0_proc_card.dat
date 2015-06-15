@@ -18,7 +18,11 @@
 #*     run as ./bin/mg5  filename                           *
 #*                                                          *
 #************************************************************
+<<<<<<< HEAD
 import model DMPseudo_ttbar01j_mphi_1000_mchi_150_gSM_1p0_gDM_1p0
+=======
+import model DMPseudo_ttbar01j_gSM_1p0_gDM_1p0
+>>>>>>> f9889e12330271fbbba145c65afe5601e56c321f
 # Define multiparticle labels
 define p = g u c d s u~ c~ d~ s~
 define j = g u c d s u~ c~ d~ s~

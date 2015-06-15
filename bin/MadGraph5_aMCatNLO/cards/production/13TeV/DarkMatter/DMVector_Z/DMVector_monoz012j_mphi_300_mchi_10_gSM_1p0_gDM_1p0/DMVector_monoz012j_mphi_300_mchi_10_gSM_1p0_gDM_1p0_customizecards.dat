@@ -2,3 +2,8 @@
 set param_card mass 6 172.5
 set param_card mass 25 125.0
 set param_card yukawa 6 172.5
+<<<<<<< HEAD
+=======
+set param_card mass 9900032 300
+set param_card mass 9100012 10
+>>>>>>> f9889e12330271fbbba145c65afe5601e56c321f

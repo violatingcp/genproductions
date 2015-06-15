@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 import vector_monoW_model_MED_XMASS
 generate    p p  > Zp z,     Zp >  ~n1 Xn1
 add process p p  > Zp z j,   Zp >  ~n1 Xn1
 add process p p  > Zp z j j, Zp >  ~n1 Xn1
 output DMVector_Z_MED_XMASS -nojpeg
+=======
+import vector_monoW_model
+generate    p p  > Zp z,     Zp >  ~n1 Xn1
+add process p p  > Zp z j,   Zp >  ~n1 Xn1
+add process p p  > Zp z j j, Zp >  ~n1 Xn1
+output VectorMonoZ_MED_XMASS -nojpeg
+>>>>>>> f9889e12330271fbbba145c65afe5601e56c321f
 

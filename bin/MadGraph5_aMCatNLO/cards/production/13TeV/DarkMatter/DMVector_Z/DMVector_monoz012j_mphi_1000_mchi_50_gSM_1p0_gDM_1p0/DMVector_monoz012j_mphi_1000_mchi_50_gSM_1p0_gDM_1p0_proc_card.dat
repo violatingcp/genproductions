@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import vector_monoW_model_1000_50
+=======
+import vector_monoW_model
+>>>>>>> f9889e12330271fbbba145c65afe5601e56c321f
 generate    p p  > Zp z,     Zp >  ~n1 Xn1
 add process p p  > Zp z j,   Zp >  ~n1 Xn1
 add process p p  > Zp z j j, Zp >  ~n1 Xn1
